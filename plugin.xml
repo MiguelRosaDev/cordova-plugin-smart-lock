@@ -18,7 +18,7 @@
 
   <!-- android -->
   <platform name="android">
-    <preference name="DIGITAL_ASSET_STATEMENT" default=""/>
+    <preference name="DIGITAL_ASSET_STATEMENT" default="corporativo.pt"/>
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="Smartlock">
         <param name="android-package" value="org.apache.cordova.smartlock.Smartlock" />
